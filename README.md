@@ -134,7 +134,7 @@ Ejecutar el programa:
 Abrir Main.java
 Click derecho → Run 'Main.main()'
 
-📊 Salida Esperada
+## 📊 Salida Esperada
 El programa ejecuta los 4 ejercicios secuencialmente, mostrando:
 📝 Listas filtradas y ordenadas
 📈 Promedios calculados
@@ -143,7 +143,7 @@ El programa ejecuta los 4 ejercicios secuencialmente, mostrando:
 Cada ejercicio está claramente separado con encabezados en la consola.
 
 
-💡 Conclusiones y Aprendizajes
+## 💡 Conclusiones y Aprendizajes
 Este trabajo práctico permite:
 ✅ Dominar las operaciones de filter, map, sorted y collect
 ✅ Manejar promedios y máximos con Streams de forma declarativa
