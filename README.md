@@ -115,3 +115,4 @@ Practicar operaciones intermedias y terminales de los Streams en Java para proce
 ---
 
 ## 📂 Estructura del Proyecto
+tp_ProgramacionFuncional/ │ ├── src/ │ ├── Main.java # Clase principal con todos los ejercicios │ └── entidades/ │ ├── Alumno.java # Entidad Alumno │ ├── Producto.java # Entidad Producto │ ├── Libro.java # Entidad Libro │ └── Empleado.java # Entidad Empleado │ ├── tp.iml # Configuración del módulo └── README.md # Este archivo
