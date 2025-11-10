@@ -114,5 +114,40 @@ Practicar operaciones intermedias y terminales de los Streams en Java para proce
 
 ---
 
-## 📂 Estructura del Proyecto
-tp_ProgramacionFuncional/ │ ├── src/ │ ├── Main.java # Clase principal con todos los ejercicios │ └── entidades/ │ ├── Alumno.java # Entidad Alumno │ ├── Producto.java # Entidad Producto │ ├── Libro.java # Entidad Libro │ └── Empleado.java # Entidad Empleado │ ├── tp.iml # Configuración del módulo └── README.md # Este archivo
+---
+
+## 🚀 Cómo Ejecutar
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/tuusuario/tp_ProgramacionFuncional.git
+   cd tp_ProgramacionFuncional
+
+Abrir en IntelliJ IDEA:
+File → Open → Seleccionar la carpeta del proyecto
+
+Configurar Lombok:
+Asegúrate de tener el plugin de Lombok instalado
+File → Settings → Plugins → Buscar "Lombok" → Instalar
+
+Ejecutar el programa:
+Abrir Main.java
+Click derecho → Run 'Main.main()'
+
+📊 Salida Esperada
+El programa ejecuta los 4 ejercicios secuencialmente, mostrando:
+📝 Listas filtradas y ordenadas
+📈 Promedios calculados
+📋 Agrupaciones por criterios
+🏆 Elementos destacados (mejores, más caros, más jóvenes)
+Cada ejercicio está claramente separado con encabezados en la consola.
+
+
+💡 Conclusiones y Aprendizajes
+Este trabajo práctico permite:
+✅ Dominar las operaciones de filter, map, sorted y collect
+✅ Manejar promedios y máximos con Streams de forma declarativa
+✅ Entender la agrupación con Collectors.groupingBy() y collectors downstream
+✅ Aplicar operaciones de filtro, ordenamiento y límite combinadas
+✅ Practicar el uso de Optional para manejo seguro de valores
+✅ Implementar consultas complejas usando pipelines de Streams
